@@ -2,5 +2,9 @@
   "name": "png-has-alpha",
   "version": "1.0.0",
   "description": "check if a png has alpha channels",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/visionmedia/node-png-has-alpha.git"
+  }
 }
